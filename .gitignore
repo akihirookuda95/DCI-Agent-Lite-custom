@@ -216,6 +216,7 @@ __marimo__/
 /outputs
 /data
 /pi-mono
+/sample_corpus
 /logs*
 .claude/
 .claudeignore
